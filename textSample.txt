@@ -1,0 +1,15 @@
+ABCDEFGHIJ
+KLMNOPQRS
+TUVWXYZ
+abcdefghij
+klmnopqrs
+tuvwxyz
+0123456789
+~!?.,<>:;'"
+[]{}\/|+=-*
+
+THE QUICK BROWN FOX JUMPED
+OVER THE LAZY DOG'S BACK.
+The quick brown fox jumped
+over the lazy dog's back.
+1234567890
