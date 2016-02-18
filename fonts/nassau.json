@@ -1,0 +1,8 @@
+{
+    "name": "Nassau",
+    "file": "nassau_all_60x60.ai",
+    "baseWidth": 60,
+    "baseHeight": 60,
+    "monospaced": false,
+    "baseLetterSpace":12
+}
