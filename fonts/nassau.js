@@ -1,25 +1,10 @@
-// var data = {
-//     "name": "Nassau",
-//     "file": "nassau_all_60x60.ai",
-//     "baseWidth": 60,
-//     "baseHeight": 60,
-//     "monospaced": false,
-//     "baseLineSpacing": 30,
-//     "baseLineHeight": 115,
-//     "baseLetterSpaceUnit":12,
-//     "charLetterSpacing": {
-// 	    "a":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
-// 	    "b":{"sidebearing":[0.5, 0.5], "kerningpairs":{}}
-// 	}
-// }
-//*
-var data = {
+var	data = {
     "name": "Nassau",
     "file": "nassau_all_60x60.ai",
     "baseWidth": 60,
     "baseHeight": 60,
     "monospaced": false,
-    "baseLineSpacing": 30,
+    "baseLetterSpacing": 45,
     "baseLineHeight": 115,
     "baseLetterSpaceUnit":12,
     "charLetterSpacing": {
@@ -120,5 +105,5 @@ var data = {
 	    "*":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    //"\\":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "/":{"sidebearing":[0.5, 0.5], "kerningpairs":{}}
+	}
 }
-//*/

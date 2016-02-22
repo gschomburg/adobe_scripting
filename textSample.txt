@@ -59,6 +59,23 @@ FZ FI FT FY FJ
 TL TE TJ TZ
 QT QZ
 
+ag ac aj ao aq au av aw ay at ap
+gg gc gj go gq gu gv gw gy gt gp
+cg cc cj co cq cu cv cw cy ct cp
+jg jc jj jo jq ju jv jw jy jt jp
+og oc oj oo oq ou ov ow oy ot op
+qg qc qj qo qq qu qv qw qy qt qp
+ug uc uj uo uq uu uv uw uy ut up
+vg vc vj vo vq vu vv vw vy vt vp
+wg wc wj wo wq wu wv ww wy wt wp
+yg yc yj yo yq yu yv yw yy yt yp
+pg pc pj po pq pu pv pw py pt pp pa
+tg tc tj to tq tu tv tw ty tt ts tp
+
+ez ei et ey ej
+fz fi ft fy fj
+tl te tj tz
+qt qz
 
 
 NUMBERS
