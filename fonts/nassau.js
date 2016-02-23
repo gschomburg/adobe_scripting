@@ -84,7 +84,7 @@ var	data = {
 	    "~":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    ":":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    ";":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
-	    //"\"":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
+	    "\"":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "“":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "”":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "'":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
@@ -103,7 +103,7 @@ var	data = {
 	    "=":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "+":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "*":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
-	    //"\\":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
+	    "\\":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "/":{"sidebearing":[0.5, 0.5], "kerningpairs":{}}
 	}
 }
