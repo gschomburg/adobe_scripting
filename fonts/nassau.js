@@ -17,7 +17,7 @@ var	data = {
 	    "g":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "h":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "i":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
-	    "j":{"sidebearing":[-0.5, 1.2], "kerningpairs":{}},
+	    "j":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "k":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "l":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
 	    "m":{"sidebearing":[0.5, 0.5], "kerningpairs":{}},
